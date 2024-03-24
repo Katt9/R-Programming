@@ -1,2 +1,2 @@
 # R-Programming
-This is a line from RStudioo
+This is a line from RStudio
